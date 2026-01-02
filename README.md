@@ -1,1 +1,1 @@
-# secret-scrub-poc-sandbox
+# sandbox
