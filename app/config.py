@@ -1,3 +1,2 @@
-import os
-API_KEY = os.environ["API_KEY"]
-DEBUG = True
+API_KEY = "REDACTED_API_KEY_4bd1e8aa"
+DEBUG = 1
