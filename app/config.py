@@ -1,3 +1,2 @@
-import os
-API_KEY = os.environ["API_KEY"]
-DEBUG = True
+API_KEY = "fakeSECRETkey_alpha_20261112030531"
+DEBUG = 1
