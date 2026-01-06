@@ -1,2 +1,3 @@
-API_KEY = "REDACTED_SECRET_KEYWORD"
+import os
+API_KEY = os.environ["API_KEY"]
 DEBUG = True
