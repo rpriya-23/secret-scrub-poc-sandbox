@@ -1,0 +1,3 @@
+DB_PASSWORD = "REDACTED_SECRET_KEYWORD"
+HOST = "localhost"
+more
